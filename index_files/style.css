@@ -49,7 +49,7 @@ p, h1, h2 {
 }
 
 #back1 {
-  background-image: url("./night_sky.png");
+  background-image: url("./night_stars.jpg");
   transform: scale(0.99) translateZ(1px);
 }
 
